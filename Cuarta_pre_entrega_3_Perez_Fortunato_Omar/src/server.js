@@ -59,7 +59,7 @@ const storeConfig = {
 };
 
 app.use(cors({
-    origin: 'https://prueba7-bbja.onrender.com',  
+    origin: 'https://prueba7-vjlj.onrender.com',  
     credentials: true  
 }))
 
